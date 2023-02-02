@@ -1,7 +1,7 @@
 package bprometheus
 
 import (
-	monitor "bitbucket.org/HeilaSystems/monitoring"
+	monitor "github.com/orchestd/monitoring"
 	"github.com/prometheus/client_golang/prometheus"
 	"time"
 )

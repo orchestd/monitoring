@@ -1,9 +1,9 @@
 package bprometheus
 
 import (
-	monitor "bitbucket.org/HeilaSystems/monitoring"
 	"context"
 	"errors"
+	monitor "github.com/orchestd/monitoring"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

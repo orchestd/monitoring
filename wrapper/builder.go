@@ -1,9 +1,9 @@
 package wrapper
 
 import (
-	monitor "bitbucket.org/HeilaSystems/monitoring"
-	"log"
 	"container/list"
+	monitor "github.com/orchestd/monitoring"
+	"log"
 )
 
 type monitorConfig struct {

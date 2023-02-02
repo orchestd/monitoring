@@ -1,8 +1,8 @@
 package wrapper
 
 import (
-	monitor "bitbucket.org/HeilaSystems/monitoring"
 	"context"
+	monitor "github.com/orchestd/monitoring"
 )
 
 type mortarReporter struct {

@@ -1,4 +1,4 @@
-module bitbucket.org/HeilaSystems/monitoring
+module github.com/orchestd/monitoring
 
 go 1.14
 

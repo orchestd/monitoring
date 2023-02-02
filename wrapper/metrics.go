@@ -1,8 +1,8 @@
 package wrapper
 
 import (
-	monitor "bitbucket.org/HeilaSystems/monitoring"
 	"fmt"
+	monitor "github.com/orchestd/monitoring"
 	"sort"
 )
 
